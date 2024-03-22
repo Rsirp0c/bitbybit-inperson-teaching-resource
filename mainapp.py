@@ -29,7 +29,7 @@ def link(text,url):
 render_svg(svg) 
 st.header(":blue[Bit by Bit] in-person program",divider='orange')
 '#### We share the lecture docs here!'
-st.link_button(':orange[link to programiz]', 'https://www.programiz.com/python-programming/online-compiler/')
+st.link_button('link to programiz', 'https://www.programiz.com/python-programming/online-compiler/')
 
 st.write('')
 
