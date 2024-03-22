@@ -31,7 +31,7 @@ st.header(":blue[Bit by Bit] in-person program",divider='orange')
 '#### We share the lecture docs here!'
 st.link_button('link to programiz', 'https://www.programiz.com/python-programming/online-compiler/')
 
-st.write('')
+# st.write('')
 
 link('#### :blue[week 1]: Introduction to Python', 'https://bitbybitcoding.notion.site/L1-Introduction-to-Python-099b550cf99a4e229ceb13eb6f90a19a?pvs=4')
 link('#### :blue[week 2]: Basic Syntax and Concepts', 'https://bitbybitcoding.notion.site/L2-Basic-Syntax-and-Concepts-89cfb10d5f0d4f43849f1ed96ab4dd02?pvs=74')
