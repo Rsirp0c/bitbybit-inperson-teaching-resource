@@ -4,7 +4,7 @@ import base64
 import textwrap
 import requests
 
-st.set_page_config(page_title="Main Page", page_icon="🏠") 
+st.set_page_config(page_title="Bitbybit course material", page_icon="🌎") 
 
 #
 def render_svg(svg):
