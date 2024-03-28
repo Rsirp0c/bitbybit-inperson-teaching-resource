@@ -37,6 +37,7 @@ link('#### :blue[week 1]: Introduction to Python', 'https://bitbybitcoding.notio
 link('#### :blue[week 2]: Basic Syntax and Concepts', 'https://bitbybitcoding.notion.site/L2-Basic-Syntax-and-Concepts-89cfb10d5f0d4f43849f1ed96ab4dd02?pvs=74')
 link('#### :blue[week 3]: Control Structures', 'https://bitbybitcoding.notion.site/L3-Control-Structures-f50254152c9b4c0198c8e37edab59217?pvs=74')
 link('#### :blue[week 4]: Basic data structure', 'https://bitbybitcoding.notion.site/L4-basic-data-structure-47041119a2a046bcaa3305cc352743a7')
+link('#### :blue[week 5]: Functions', 'https://bitbybitcoding.notion.site/L5-functions-70d606ebeb8a40c991ffd818445882b3?pvs=4')
 
 st.write('')
 
