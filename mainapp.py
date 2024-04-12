@@ -38,7 +38,7 @@ link('#### :blue[week 2]: Basic Syntax and Concepts', 'https://bitbybitcoding.no
 link('#### :blue[week 3]: Control Structures', 'https://bitbybitcoding.notion.site/L3-Control-Structures-f50254152c9b4c0198c8e37edab59217?pvs=74')
 link('#### :blue[week 4]: Basic data structure', 'https://bitbybitcoding.notion.site/L4-basic-data-structure-47041119a2a046bcaa3305cc352743a7')
 link('#### :blue[week 5]: Functions', 'https://bitbybitcoding.notion.site/L5-functions-70d606ebeb8a40c991ffd818445882b3?pvs=4')
-link('#### :blue[week 5]: Streamlit', 'https://bitbybitcoding.notion.site/Crash-Course-on-Streamlit-0c232745f77b414ea8848efcde083dd0?pvs=25')
+link('#### :blue[week 6]: Streamlit', 'https://bitbybitcoding.notion.site/Crash-Course-on-Streamlit-0c232745f77b414ea8848efcde083dd0?pvs=25')
 
 st.write('')
 
